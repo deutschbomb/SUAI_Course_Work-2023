@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Курсовой_проект_2023.BeerDrafter">
+    <Position X="5.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAEAAAAgAAgAAAAAAAABACAIAAAABAAA=</HashCode>
+      <FileName>Model\Patterns\Builder.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="beer" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Курсовой_проект_2023.Beer">
+    <Position X="8.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAABACAIAAAAAQAA=</HashCode>
+      <FileName>Model\Shop\Stock\Beer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Century Gothic" Size="9" />
+</ClassDiagram>

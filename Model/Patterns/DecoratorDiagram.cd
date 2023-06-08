@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Курсовой_проект_2023.FishDecotator">
+    <Position X="4.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>Model\Patterns\Decorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовой_проект_2023.Fish">
+    <Position X="10" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Model\Shop\Stock\Fish.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовой_проект_2023.Salted">
+    <Position X="3.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Shop\Stock\Fish\Salted.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовой_проект_2023.Roach">
+    <Position X="8.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Shop\Stock\Fish\Roach.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовой_проект_2023.Pike">
+    <Position X="11.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Shop\Stock\Fish\Pike.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовой_проект_2023.Dried">
+    <Position X="6" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Shop\Stock\Fish\Dried.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Century Gothic" Size="9" />
+</ClassDiagram>

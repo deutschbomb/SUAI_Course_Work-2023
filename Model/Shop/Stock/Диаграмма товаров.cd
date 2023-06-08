@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Курсовой_проект_2023.Beer">
+    <Position X="5.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAABACAIAAAAAQAA=</HashCode>
+      <FileName>Model\Shop\Stock\Beer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовой_проект_2023.Lays">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Shop\Stock\Chips\Lays.cs</FileName>
+      <NewMemberFileName>Model\Stock\Chips.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовой_проект_2023.Pringles">
+    <Position X="3.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Shop\Stock\Chips\Pringles.cs</FileName>
+      <NewMemberFileName>Model\Stock\Chips.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовой_проект_2023.Chips">
+    <Position X="1.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Shop\Stock\Chips.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовой_проект_2023.Dried">
+    <Position X="13.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Shop\Stock\Fish\Dried.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовой_проект_2023.Pike">
+    <Position X="8" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Shop\Stock\Fish\Pike.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовой_проект_2023.Roach">
+    <Position X="10.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Shop\Stock\Fish\Roach.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовой_проект_2023.Salted">
+    <Position X="11.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Shop\Stock\Fish\Salted.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовой_проект_2023.Fish">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Model\Shop\Stock\Fish.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Курсовой_проект_2023.Product">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Shop\Stock\Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Century Gothic" Size="9" />
+</ClassDiagram>
